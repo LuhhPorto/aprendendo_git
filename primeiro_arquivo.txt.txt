@@ -1,0 +1,28 @@
+O que aprendi até agora sobre o Git.
+
+ O Git é uma ferramenta para conseguir compartilhar o codigo
+que esta escrevendo com outros programadores e conseguirem
+codificar arquivos juntos e também fazerem a junção destes
+codigos. 
+
+ Você pode usa-lo em projetos que irá trabalhar com 
+varias linhas de codigos onde cada programador pode 
+fazer sua parte e depois unir os codigos em um só. 
+
+ Com as ferramentas como o Github podemos fazer a mesma
+coisa porém de forma online onde podemos trabalhar com outros
+programadores cada um em seu lugar e criar soluções juntos
+ou até mesmo pedir a ajuda de programadores que você nem conhece
+com seus codigos permitindo que eles façam a alteração sem sair 
+do lugar. 
+
+ Você pode criar versões de seu codigo com as alterações feitas
+e se necessario retornar para a versão original e também pode criar
+cópias do codigo original para fazer alterações enquanto o codigo ainda
+esta no ar para solucionar Bugs por exemplo. 
+
+ Com varias funções muito interresantes não nescessariamente precisa
+decoralas mais tem que saber o que cada uma irá fazer, e você pode aplicar 
+comandos no Git seja por comandos escritos ou também pode alterar por
+paineis graficos que facilitam na aprendizagem. 
+ 
